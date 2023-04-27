@@ -1,4 +1,4 @@
-<!doctype html>
+
 <a href="#steganography---a-list-of-useful-tools-and-resources">Steganography - A list of useful tools and resources</a><ul>
 <li><a href="#steganography">Steganography</a></li>
 <li><a href="#tools">Tools</a></li>
