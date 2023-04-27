@@ -23,11 +23,7 @@
 </ul>
 </li></ul>
 
-            </nav>
-          </aside>
-        
-        <h1 id="steganography---a-list-of-useful-tools-and-resources">Steganography - A list of useful tools and resources</h1>
-
+          
 <h2 id="steganography">Steganography</h2>
 <p>Steganography is hiding a file or a message inside of another file , there are many fun steganography CTF challenges out there where the flag is hidden in an image , audio file or even other types of files. Here is a list of the most tools I use and some other useful resources.<br>
 Note : This list will be updated regularly , feel free to pm if you have any suggestions 
