@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-06:49:44	46/46	---M--	200	added ('OK')	text/plain	etag:%226363ba03-2e%22	https://0xrick.github.io/robots.txt		(from )
-06:49:44	24380/24380	---M-Z	200	added ('OK')	text/html	etag:W/%226363ba03-5f3c%22	https://0xrick.github.io/lists/stego/	/home/kali/Desktop/web/0xrick.github.io/lists/stego/index.html	(from )
